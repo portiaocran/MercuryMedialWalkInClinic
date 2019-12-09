@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+
+
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #6F1A68;
+  color: white;
+  position: fixed;
+  font-size: 20px;
+  border-radius-bottom: 25px;
+  width: 100%;
+  left:0;
+  overflow-x: hidden;
+  
+  z-index: 1;
+}
+
+/* Page Content */
+.content {padding:20px;
+	overflow-x: hidden;
+	}
+</style>
+</head>
+<body>
